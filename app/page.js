@@ -104,7 +104,7 @@ export default function Home() {
               title: 'Abhyanjana Haircare Kit – Best hair care kit for Hair Growth',
             },
             {
-              src: '/image-3.jpg',
+              src: '/image3.jpg',
               title: 'Ukti – Natural Hair Scrub (100 g)',
             },
           ].map((product, index) => (
